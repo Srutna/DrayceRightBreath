@@ -1,0 +1,12 @@
+.ai files for adobe illustrator.
+.png are the actual files for sprite images.
+
+72p directory contains the images which are actually used in the game.
+
+these sprites will be used when character will be facing Right and won't move.
+
+Dimensions on GMS are 48 x 144 & the speed of frame moving is 4.
+
+origin: 24 X 72 (middleCenter).
+
+P.S.: due to some problems relative to the sizes the dimensions on the GMS are changed.
